@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VismaLibrary", "VismaLibrary\VismaLibrary.csproj", "{F946A0EC-3113-4B89-9630-EEA8F02E25D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VismaLibraryTests", "VismaLibraryTests\VismaLibraryTests.csproj", "{ACE343E9-0449-49C2-9731-132DC23B1FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F946A0EC-3113-4B89-9630-EEA8F02E25D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F946A0EC-3113-4B89-9630-EEA8F02E25D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F946A0EC-3113-4B89-9630-EEA8F02E25D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F946A0EC-3113-4B89-9630-EEA8F02E25D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE343E9-0449-49C2-9731-132DC23B1FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE343E9-0449-49C2-9731-132DC23B1FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE343E9-0449-49C2-9731-132DC23B1FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE343E9-0449-49C2-9731-132DC23B1FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FBA77D9-1071-4ABB-B685-A32872F4AB25}
+	EndGlobalSection
+EndGlobal
